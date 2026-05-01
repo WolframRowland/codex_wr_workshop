@@ -1,0 +1,274 @@
+{
+  "generated_at": "2026-04-30T23:11:49+00:00",
+  "window_start": "2025-12-02T13:45:00",
+  "window_end": "2025-12-02T13:50:00",
+  "lookback_minutes": 5,
+  "window_mode": "anomaly-demo",
+  "scanned_rows": 1288508,
+  "window_rows": 1003,
+  "previous_window_rows": 997,
+  "negative_fare_rows": 20,
+  "negative_tip_rows": 0,
+  "negative_distance_rows": 0,
+  "invalid_timestamp_rows": 0,
+  "avg_fare": 30.0608813559322,
+  "avg_distance": 3.152542372881356,
+  "top_pickup_zones": [
+    {
+      "value": "Upper East Side South",
+      "trips": 46
+    },
+    {
+      "value": "Upper East Side North",
+      "trips": 38
+    },
+    {
+      "value": "Midtown Center",
+      "trips": 29
+    },
+    {
+      "value": "Midtown East",
+      "trips": 26
+    },
+    {
+      "value": "Penn Station/Madison Sq West",
+      "trips": 26
+    },
+    {
+      "value": "JFK Airport",
+      "trips": 25
+    },
+    {
+      "value": "Times Sq/Theatre District",
+      "trips": 24
+    },
+    {
+      "value": "Midtown North",
+      "trips": 22
+    }
+  ],
+  "top_pickup_boroughs": [
+    {
+      "value": "Manhattan",
+      "trips": 547
+    },
+    {
+      "value": "Queens",
+      "trips": 67
+    },
+    {
+      "value": "Brooklyn",
+      "trips": 30
+    },
+    {
+      "value": "Bronx",
+      "trips": 13
+    },
+    {
+      "value": "Staten Island",
+      "trips": 1
+    },
+    {
+      "value": "Unknown",
+      "trips": 1
+    }
+  ],
+  "volume_by_dataset": [
+    {
+      "value": "yellow_tripdata_2025-12",
+      "trips": 581
+    },
+    {
+      "value": "fhv_tripdata_2025-12",
+      "trips": 413
+    },
+    {
+      "value": "green_tripdata_2025-12",
+      "trips": 9
+    }
+  ],
+  "source_quality_leaders": [
+    {
+      "dataset": "yellow_tripdata_2025-12",
+      "service": "Yellow taxi",
+      "source_column": "VendorID",
+      "source_id": "2",
+      "trips": 450,
+      "negative_fares": 20,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 1,
+      "avg_fare": 30.653000000000006,
+      "example_negative_fares": "-13.35; -30.85; -4.75; -47.65; -23.85",
+      "negative_fare_rate": 0.0444,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00001",
+      "trips": 1,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00111",
+      "trips": 2,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00112",
+      "trips": 1,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00254",
+      "trips": 1,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00256",
+      "trips": 6,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00412",
+      "trips": 28,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00477",
+      "trips": 1,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00559",
+      "trips": 1,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    },
+    {
+      "dataset": "fhv_tripdata_2025-12",
+      "service": "FHV",
+      "source_column": "dispatching_base_num",
+      "source_id": "B00647",
+      "trips": 2,
+      "negative_fares": 0,
+      "negative_tips": 0,
+      "negative_distances": 0,
+      "invalid_timestamps": 0,
+      "store_and_forward": 0,
+      "avg_fare": NaN,
+      "example_negative_fares": "",
+      "negative_fare_rate": 0.0,
+      "negative_tip_rate": 0.0,
+      "invalid_timestamp_rate": 0.0
+    }
+  ],
+  "alerts": [
+    {
+      "type": "NEGATIVE_FARE_CLUSTER",
+      "severity": "high",
+      "source": "yellow_tripdata_2025-12 VendorID=2",
+      "count": 20,
+      "rate": 0.0444,
+      "examples": "-13.35; -30.85; -4.75; -47.65; -23.85",
+      "explanation": "Repeated negative fare values may indicate a meter, payment, or upstream device/configuration issue."
+    }
+  ],
+  "identifier_note": "These TLC files do not include a true per-cab IoT device ID. The monitor groups by the most specific available source field, such as VendorID, dispatching_base_num, originating_base_num, or hvfhs_license_num."
+}

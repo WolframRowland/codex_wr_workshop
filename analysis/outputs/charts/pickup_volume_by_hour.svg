@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="360" viewBox="0 0 920 360">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="38" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Pickup volume by hour</text>
+<line x1="64" y1="300" x2="872" y2="300" stroke="#9ca3af"/>
+<line x1="64" y1="72" x2="64" y2="300" stroke="#9ca3af"/>
+<polyline points="64.0,72.0 99.1,89.0 134.3,113.1 169.4,213.2 204.5,250.8 239.7,236.3 274.8,193.6 309.9,123.0 345.0,92.2 380.2,96.7 415.3,148.9 450.4,169.7 485.6,163.5 520.7,159.4 555.8,160.6 591.0,166.5 626.1,172.2 661.2,174.1 696.3,184.4 731.5,210.0 766.6,219.2 801.7,236.5 836.9,248.4 872.0,258.7" fill="none" stroke="#2563eb" stroke-width="3"/>
+<text x="56.0" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">0</text>
+<circle cx="64.0" cy="72.0" r="3" fill="#2563eb"/>
+<text x="72.0" y="64.0" font-family="Arial, sans-serif" font-size="12" fill="#374151">95,848</text>
+<circle cx="99.1" cy="89.0" r="3" fill="#2563eb"/>
+<circle cx="134.3" cy="113.1" r="3" fill="#2563eb"/>
+<text x="161.4" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">3</text>
+<circle cx="169.4" cy="213.2" r="3" fill="#2563eb"/>
+<circle cx="204.5" cy="250.8" r="3" fill="#2563eb"/>
+<circle cx="239.7" cy="236.3" r="3" fill="#2563eb"/>
+<text x="266.8" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">6</text>
+<circle cx="274.8" cy="193.6" r="3" fill="#2563eb"/>
+<circle cx="309.9" cy="123.0" r="3" fill="#2563eb"/>
+<circle cx="345.0" cy="92.2" r="3" fill="#2563eb"/>
+<text x="372.2" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">9</text>
+<circle cx="380.2" cy="96.7" r="3" fill="#2563eb"/>
+<circle cx="415.3" cy="148.9" r="3" fill="#2563eb"/>
+<circle cx="450.4" cy="169.7" r="3" fill="#2563eb"/>
+<text x="477.6" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">12</text>
+<circle cx="485.6" cy="163.5" r="3" fill="#2563eb"/>
+<circle cx="520.7" cy="159.4" r="3" fill="#2563eb"/>
+<circle cx="555.8" cy="160.6" r="3" fill="#2563eb"/>
+<text x="583.0" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">15</text>
+<circle cx="591.0" cy="166.5" r="3" fill="#2563eb"/>
+<circle cx="626.1" cy="172.2" r="3" fill="#2563eb"/>
+<circle cx="661.2" cy="174.1" r="3" fill="#2563eb"/>
+<text x="688.3" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">18</text>
+<circle cx="696.3" cy="184.4" r="3" fill="#2563eb"/>
+<circle cx="731.5" cy="210.0" r="3" fill="#2563eb"/>
+<circle cx="766.6" cy="219.2" r="3" fill="#2563eb"/>
+<text x="793.7" y="322" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">21</text>
+<circle cx="801.7" cy="236.5" r="3" fill="#2563eb"/>
+<circle cx="836.9" cy="248.4" r="3" fill="#2563eb"/>
+<circle cx="872.0" cy="258.7" r="3" fill="#2563eb"/>
+<text x="64" y="342" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">Pickup hour</text>
+</svg>
